@@ -1,0 +1,4 @@
+ui\core\UITestCase.class
+ui\pom\LoginTest.class
+ui\core\PropertyReader.class
+ui\stepdifinition\registration\RegistrationStepDifinition.class
